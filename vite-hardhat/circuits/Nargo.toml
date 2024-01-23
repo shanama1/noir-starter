@@ -1,3 +1,6 @@
+//Nargo file needs few modifications along with prover
+
+
 [package]
 name = "noirstarter"
 type = "bin"
